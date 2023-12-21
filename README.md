@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on freeCodeCamp courses towards the Responsive Web Design Certification and to gain a deeper understanding.
+- 🌱 I’m currently learning html/css as a start and excited to pick up new skill sets.
+- 👯 I’m looking to collaborate on this learning journey into the world of tech. I would value any opportunity to gain experience as I study and practice.
+- 🤔 I’m looking for help with any advice on the steps to take towards becoming proficient for someone who has just started learning programming languages.
+- 💬 Ask me about how I can assist, contribute and collaborate.
+- 📫 How to reach me: I can be reached through this profile.
+- - ⚡ Fun fact: ...To infinity and beyond. Really. 
 
 <!--
 **Nyambura-Mwagiru/Nyambura-Mwagiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
